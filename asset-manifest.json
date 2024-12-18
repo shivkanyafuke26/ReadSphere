@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "//ReadSphere/static/css/main.f609638f.css",
+    "main.js": "//ReadSphere/static/js/main.e1a8390d.js",
+    "static/js/453.d920a044.chunk.js": "//ReadSphere/static/js/453.d920a044.chunk.js",
+    "static/media/bookLogo.png": "//ReadSphere/static/media/bookLogo.3380260c975bb68b3c09.png",
+    "static/media/bookLeft.jpeg": "//ReadSphere/static/media/bookLeft.399e59670b6f167b2155.jpeg",
+    "static/media/multiplebooks.jpg": "//ReadSphere/static/media/multiplebooks.fc8dc398c3bb54f06a24.jpg",
+    "static/media/books.jpeg": "//ReadSphere/static/media/books.d0dee79ca5aa679f1857.jpeg",
+    "static/media/theLetThemTheory.jpg": "//ReadSphere/static/media/theLetThemTheory.621982723529119007e7.jpg",
+    "static/media/CuriousMinds.jpg": "//ReadSphere/static/media/CuriousMinds.8365e3966aa5246320db.jpg",
+    "static/media/theWomen.jpg": "//ReadSphere/static/media/theWomen.9a1a0835c4dd49aeb1bc.jpg",
+    "static/media/howToDrawEverything.jpg": "//ReadSphere/static/media/howToDrawEverything.8b5d0d111511a8d12cbe.jpg",
+    "static/media/holydaysOnIce.jpg": "//ReadSphere/static/media/holydaysOnIce.8b6ade2d02d5b17b0b41.jpg",
+    "static/media/difficultRiddles.jpg": "//ReadSphere/static/media/difficultRiddles.01a51ed85b854251324c.jpg",
+    "static/media/grandmother.jpg": "//ReadSphere/static/media/grandmother.5fa6997bb3d0fb9dc652.jpg",
+    "index.html": "//ReadSphere/index.html",
+    "main.f609638f.css.map": "//ReadSphere/static/css/main.f609638f.css.map",
+    "main.e1a8390d.js.map": "//ReadSphere/static/js/main.e1a8390d.js.map",
+    "453.d920a044.chunk.js.map": "//ReadSphere/static/js/453.d920a044.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f609638f.css",
+    "static/js/main.e1a8390d.js"
+  ]
+}
